@@ -4,10 +4,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)
 
 </p>
-<div size='20px'> Hi! My name is Claudia. Thank You for taking the time to view my GitHub Profile  
+<div size='20px'> Hi! My name is Claudia. Thank You for taking the time to view my GitHub Profile <img src = "https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width = 100px> 
 </div>
 
-<h2> About Me <img src = "https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
