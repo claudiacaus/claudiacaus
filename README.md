@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)
 
 </p>
-<div size='20px'> Hi! My name is Claudia. Thank You for taking the time to view my GitHub Profile  
+   <div size='20px'> Hi! My name is <strong>Claudia</strong>. Thank You for taking the time to view my GitHub Profile! 
 </div>
 
 <h2> About Me </h2>
@@ -13,8 +13,8 @@
 
 
 - 🔭 I’m currently working on  my portfolio
-- 🌱 I’m currently learning Full Stack Development 
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
+- 🌱 I’m currently learning Full Stack Development at HackYourFuture - Amsterdam
+- 👯 I’m looking to collaborate on Projects 
 - 💬 Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
