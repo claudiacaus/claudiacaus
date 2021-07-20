@@ -1,10 +1,10 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width = 100px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)
 
 </p>
-<div size='20px'> Hi! My name is Claudia. Thank You for taking the time to view my GitHub Profile <img src = "https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width = 100px> 
+<div size='20px'> Hi! My name is Claudia. Thank You for taking the time to view my GitHub Profile  
 </div>
 
 <h2> About Me </h2>
