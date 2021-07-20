@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width = 100px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)
