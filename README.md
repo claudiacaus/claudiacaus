@@ -13,12 +13,9 @@
 
 
 - 🔭 I’m currently working on  my portfolio
-
 - 🌱 I’m currently learning Full Stack Development 
-
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
-
-- 💬 Talk to me about JavaScript, Freelancing Opportunities, Internship Opportunities, Junior Opportunities 
+- 💬 Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -40,6 +37,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True"/>
 </a>
 <br>
+
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=claudiadewindt&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiadewindt&langs_count=5&theme=tokyonight)]()
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
