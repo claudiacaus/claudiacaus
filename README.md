@@ -1,17 +1,18 @@
-<img width="100%" align="center" alt="web development"src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" />
+
 <h1> Hello Fellow < Developers/ >! <img src = "https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width = 50px> </h1>
 <p align='center'>
-
+   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)
-
+   
 </p>
+   
+   <img width="55%" align="right" alt="web development" src="https://b2bchief.com/wp-content/uploads/2021/03/Small-Satellite-Services-Market-2021-Potential-Growth-Challenges.gif" />
+
+   
    <div size='20px'> Hi! My name is <strong>Claudia</strong>. Thank You for taking the time to view my GitHub Profile! 
 </div>
 
 <h2> About Me </h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 - 🔭 I’m currently working on  my portfolio
 - 🌱 I’m currently learning Full Stack Development at HackYourFuture - Amsterdam
