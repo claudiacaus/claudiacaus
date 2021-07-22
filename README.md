@@ -1,3 +1,4 @@
+<img width="100%" align="center" alt="web development"src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" />
 <h1> Hello Fellow < Developers/ >! <img src = "https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width = 50px> </h1>
 <p align='center'>
 
