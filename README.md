@@ -38,7 +38,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <a href="https://bit.ly/claudiadewindt-linkedin"><img src="https://img.shields.io/badge/-Claudia%20de%20Windt-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:caucrah@gmail.com"><img src="https://img.shields.io/badge/-caucrah@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-   <a href="https://instagram.com/claudiacaus"><img src="https://img.shields.io/badge/-@claudiacaus-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+   <a href="https://bit.ly/claudiacaus-instagram"><img src="https://img.shields.io/badge/-@claudiacaus-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
 <h2> My Wakatime  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> </h2>
