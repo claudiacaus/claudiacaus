@@ -14,24 +14,31 @@
 
 <h2> About Me </h2>
 
-<p>🔭 I’m currently working on  my portfolio</p>
-<p>🌱 I’m currently learning Full Stack Development at HackYourFuture - Amsterdam</p>
-<p>👯 I’m looking to collaborate on Projects </p>
-<p> 💬 Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities </p>
+🇧🇷 I’m from Brazil and I live in the Netherlands 🇳🇱 <br>
+🔭 I’m currently working on  my portfolio. <br>
+🌱 I’m currently learning Full Stack Development at HackYourFuture - Amsterdam.<br>
+🎓 I have a Bsc in Advertising. <br>
+👯 I’m looking to collaborate on Projects. <br>
+✍️ In my free time, I like to paint. <br> 
+💬 Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities. <br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/claudiadewindt?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-
+   
+   
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) 
+   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/claudiadewindt'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/claudiadewindt'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href="https://www.linkedin.com/in/claudiadewindt/"><img src="https://img.shields.io/badge/-Claudia%20de%20Windt-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:caucrah@gmail.com"><img src="https://img.shields.io/badge/-caucrah@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+   <a href="https://instagram.com/claudiacaus"><img src="https://img.shields.io/badge/-@claudiacaus-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
 <h2> My Wakatime  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
@@ -41,12 +48,14 @@
 <br>
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-   
-   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=claudiadewindt&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiadewindt&langs_count=5&theme=tokyonight)]()
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=claudiadewindt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=claudiadewindt&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-![Metrics](https://metrics.lecoq.io/claudiadewindt?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 
 <br>
