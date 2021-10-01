@@ -6,7 +6,7 @@
    
 </p>
    
-   <img width="55%" align="right" alt="web development" src="https://b2bchief.com/wp-content/uploads/2021/03/Small-Satellite-Services-Market-2021-Potential-Growth-Challenges.gif" />
+   <img width="55%" align="right" alt="web development" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif" />
 
    
    <div size='20px'> Hi! My name is <strong>Claudia</strong>. Thank You for taking the time to view my GitHub Profile! 
