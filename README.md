@@ -16,7 +16,7 @@
 
 🇧🇷 I’m from Brazil and I live in the Netherlands 🇳🇱 <br>
 🔭 I’m currently working on  my portfolio. <br>
-🌱 I’m currently learning <strong>Full Stack Development</strong> at [HackYourFuture](https://www.hackyourfuture.net/)  - Amsterdam.<br>
+🌱 I’m currently studying <strong>Full Stack Development</strong> at [HackYourFuture](https://www.hackyourfuture.net/)  - Amsterdam.<br>
 🎓 I have a Bsc in Advertising. <br>
 👯 I’m looking to collaborate on Projects. <br>
 ✍️ In my free time I like to paint. <br> 
