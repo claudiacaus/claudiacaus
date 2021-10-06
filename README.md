@@ -36,7 +36,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom&logoColor=5CAF79)
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <a href="https://bit.ly/claudiadewindt-linkedin"><img src="https://img.shields.io/badge/-Claudia%20de%20Windt-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
