@@ -45,18 +45,21 @@
 
 
 <h2> My Wakatime  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> </h2>
+   <p align="center">
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=darcula")
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula"
 "/>
-</a>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=claudiadewindt&layout=compact&langs_count=8&theme=dracula"/>
+</a> </p>
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <p align="center">
-<a">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=claudiadewindt&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=claudiadewindt&layout=compact&langs_count=8&theme=darcula"/>
+<a>
+                 <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=claudiadewindt&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=claudiadewindt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
 </a>
 </p>
 
