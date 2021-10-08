@@ -57,8 +57,8 @@
 
 <p align="center">
 <a>
-                 <img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=claudiadewindt&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=claudiadewindt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+                 <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=claudiadewindt&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=claudiadewindt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </a>
 </p>
