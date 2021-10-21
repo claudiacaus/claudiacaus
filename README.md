@@ -23,7 +23,7 @@
 💬 Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities. <br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
-   
+  
    
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) 
    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -44,7 +44,8 @@
    <a href="https://bit.ly/claudiacaus-instagram"><img src="https://img.shields.io/badge/-@claudiacaus-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
-<h2> My Wakatime  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> </h2>
+<h2> My Wakatime <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> </h2>
+  
    <p align="center">
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true"/>
