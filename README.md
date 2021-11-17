@@ -14,13 +14,13 @@
 
 <h2> About Me </h2>
 
-🇧🇷 I’m from Brazil and I live in the Netherlands 🇳🇱 <br>
-🔭 I’m currently working on  my portfolio. <br>
-🌱 I’m currently studying <strong>Full Stack Development</strong> at [HackYourFuture](https://www.hackyourfuture.net/)  - Amsterdam.<br>
-🎓 I have a Bsc in Advertising. <br>
-👯 I’m looking to collaborate on Projects. <br>
-✍️ In my free time I like to paint. <br> 
-💬 Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities. <br>
+🇧🇷  &nbsp; I’m from Brazil and I live in the Netherlands 🇳🇱 <br>
+🔭 &nbsp; I’m currently working on  my portfolio. <br>
+🌱 &nbsp; I’m currently studying <strong>Full Stack Development</strong> at [HackYourFuture](https://www.hackyourfuture.net/)  - Amsterdam.<br>
+🎓 &nbsp; I have a Bsc in Advertising. <br>
+👯 &nbsp; I’m looking to collaborate on Projects. <br>
+✍️ &nbsp; In my free time I like to paint. <br> 
+💬 &nbsp; Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities. <br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
   
