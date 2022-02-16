@@ -14,11 +14,11 @@
 
 <h2> About Me </h2>
 
-:brazil: &nbsp; I’m from Brazil and I live in the Netherlands 	:netherlands: <br>
+:house_with_garden: &nbsp; I’m from Brazil and I live in the Netherlands  <br>
 🔭 &nbsp; I’m currently working on  my portfolio. <br>
 🎓 &nbsp; I recently graduated as a <strong>Full Stack Web Developer</strong> from the  [HackYourFuture](https://www.hackyourfuture.net/) Bootcamp - Amsterdam.<br>
 🎓 &nbsp; I have a Bsc in Advertising. <br>
-:woman_technologist: &nbsp; I study daily to improve my coding skills.
+:woman_technologist: &nbsp; I study daily to improve my coding skills. <br>
 👯 &nbsp; I’m looking to collaborate on Projects. <br>
 :art: &nbsp; In my free time I like to paint. <br> 
 💬 &nbsp; Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities. <br>
