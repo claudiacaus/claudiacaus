@@ -24,7 +24,7 @@
 💬 &nbsp; Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities. <br>
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
   
    
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) 
@@ -38,6 +38,12 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+## Learning 
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![Gsap](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=gsap)
+![Sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+![Scss](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=scss)
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
