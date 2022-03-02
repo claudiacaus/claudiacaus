@@ -56,8 +56,8 @@
   
    <p align="center">
 <a>
-<img  width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true"/>
- <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=claudiadewindt&layout=compact&langs_count=8&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img  width="470em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true"/>
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=claudiadewindt&layout=compact&langs_count=8&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </a> </p>
 
 
