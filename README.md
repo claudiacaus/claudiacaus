@@ -30,6 +30,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) 
    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+   ![Sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+![Scss](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=scss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=F29111)
@@ -42,8 +44,7 @@
 ## Learning 
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 ![Gsap](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=gsap)
-![Sass](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
-![Scss](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=scss)
+
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
