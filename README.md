@@ -27,23 +27,23 @@
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
   
    
-![HTML](https://img.shields.io/badge/-HTML-553333?style=flat&logo=HTML5) 
-   ![CSS](https://img.shields.io/badge/-CSS-553333?style=flat&logo=CSS3&logoColor=1572B6)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-553333?style=flat&logo=bootstrap)
-   ![Sass](https://img.shields.io/badge/-SASS-553333?style=flat&logo=sass)
-![Scss](https://img.shields.io/badge/-SCSS-553333?style=flat&logo=scss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-553333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-553333?style=flat&logo=node.js)
-   ![MySQL](https://img.shields.io/badge/-MySQL-553333?style=flat&logo=mysql&logoColor=F29111)
-     ![MongoDB](https://img.shields.io/badge/-MongoDB-553333?style=flat&logo=mongodb)
-![React](https://img.shields.io/badge/-React-553333?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-553333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-553333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-553333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![HTML](https://img.shields.io/badge/-HTML-444444?style=flat&logo=HTML5) 
+   ![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=1572B6)
+   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap)
+   ![Sass](https://img.shields.io/badge/-SASS-444444?style=flat&logo=sass)
+![Scss](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=scss)
+![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)
+   ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=F29111)
+     ![MongoDB](https://img.shields.io/badge/-MongoDB-444444?style=flat&logo=mongodb)
+![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Learning 
-![Typescript](https://img.shields.io/badge/-Typescript-553333?style=flat&logo=typescript)
-![Gsap](https://img.shields.io/badge/-GreenSock-553333?style=flat&logo=greensock)
+![Typescript](https://img.shields.io/badge/-Typescript-444444?style=flat&logo=typescript)
+![Gsap](https://img.shields.io/badge/-GreenSock-444444?style=flat&logo=greensock)
 
 
 
