@@ -21,7 +21,7 @@
 :woman_technologist: &nbsp; I study daily to improve my coding skills. <br>
 👯 &nbsp; I’m looking to collaborate on Projects. <br>
 :art: &nbsp; In my free time I like to paint. <br> 
-💬 &nbsp; Talk to me about JavaScript, Freelancing Opportunities, Internship and Junior Opportunities. <br>
+💬 &nbsp; Talk to me about JavaScript or anything code related 🙂. <br>
 
 
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
