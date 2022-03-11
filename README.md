@@ -43,7 +43,7 @@
 
 ## Learning 
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![Gsap](https://img.shields.io/badge/-GSAP-333333?style=flat&logo=gsap)
+![Gsap](https://img.shields.io/badge/-GreenSock-333333?style=flat&logo=greensock)
 
 
 
