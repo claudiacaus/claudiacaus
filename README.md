@@ -45,6 +45,7 @@
 ## Learning 
 ![Typescript](https://img.shields.io/badge/-Typescript-444444?style=flat&logo=typescript)
 ![Gsap](https://img.shields.io/badge/-GreenSock-444444?style=flat&logo=greensock)
+![Next.js](https://img.shields.io/badge/-Next.js-444444?style=flat&logo=next.js)
 
 
 
