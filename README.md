@@ -14,7 +14,7 @@
 
 <h2> About Me </h2>
 
-:house_with_garden: &nbsp; I’m from Brazil and I live in the Netherlands  <br>
+:house_with_garden: &nbsp; I’m from Brazil and I live in the Netherlands. <br>
 🔭 &nbsp; I’m currently working on  my portfolio. <br>
 🎓 &nbsp; I recently graduated as a <strong>Full Stack Web Developer</strong> from the  [HackYourFuture](https://www.hackyourfuture.net/) Bootcamp - Amsterdam.<br>
 🎓 &nbsp; I have a Bsc in Advertising. <br>
