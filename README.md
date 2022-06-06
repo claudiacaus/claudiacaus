@@ -1,5 +1,5 @@
 
-<h1> Hello Fellow < Developers />! <img src = "https://c.tenor.com/JUM6g9MQaVoAAAAj/feline-new-computer.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers />! </h1>
 <p align='center'>
    
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)
@@ -24,7 +24,7 @@
 💬 &nbsp; Talk to me about JavaScript or anything code related 🙂. <br>
 
 
-<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<h2> Tech Stack  </h2>
   
    
 ![HTML](https://img.shields.io/badge/-HTML-444444?style=flat&logo=HTML5) 
@@ -49,13 +49,13 @@
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
+<h2> Connect with me </h2>
 <a href="https://bit.ly/claudiadewindt-linkedin"><img src="https://img.shields.io/badge/-Claudia%20de%20Windt-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:caucrah@gmail.com"><img src="https://img.shields.io/badge/-caucrah@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
    <a href="https://bit.ly/claudiacaus-instagram"><img src="https://img.shields.io/badge/-@claudiacaus-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
-<h2> My Wakatime <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px> <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> </h2>
+<h2> My Wakatime <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> </h2>
   
    <p align="center">
 <a>
@@ -64,7 +64,7 @@
 </a> </p>
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats </h2>
 
 <p align="center">
 <a>
