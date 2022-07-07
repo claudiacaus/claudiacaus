@@ -31,7 +31,6 @@
    ![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=1572B6)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap)
    ![Sass](https://img.shields.io/badge/-SASS-444444?style=flat&logo=sass)
-![Scss](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=scss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-444444?style=flat&logo=express)
