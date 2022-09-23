@@ -56,7 +56,7 @@
 
 <h2> My Wakatime <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> </h2>
 
-<img  src="https://wakatime.com/share/@claudiadewindt/cb06d02e-da6b-47dc-8f15-0360236998f8.svg" />
+<img  align="center" width="80%" src="https://wakatime.com/share/@claudiadewindt/cb06d02e-da6b-47dc-8f15-0360236998f8.svg" />
 
 
 
