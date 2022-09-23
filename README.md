@@ -56,26 +56,22 @@
 
 <h2> My Wakatime <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> </h2>
 
-<img width="55%" align="center" src="https://wakatime.com/share/@claudiadewindt/cb06d02e-da6b-47dc-8f15-0360236998f8.svg" />
-
-<img src="https://wakatime.com/share/@claudiadewindt/30671705-7083-42c7-8e9f-a218a567698f.svg" />
-  
-   <p align="center">
-<a>
-<img  width="470em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true"/>
- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=claudiadewindt&layout=compact&langs_count=8&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</a> </p>
+<img  src="https://wakatime.com/share/@claudiadewindt/cb06d02e-da6b-47dc-8f15-0360236998f8.svg" />
 
 
-<h2> My GitHub Stats </h2>
 
-<p align="center">
-<a>
-                 <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=claudiadewindt&theme=dracula&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=claudiadewindt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  
-</a>
+<p align="center" margin-bottom="30px">
+<img width="50%" align="left" src="https://wakatime.com/share/@claudiadewindt/30671705-7083-42c7-8e9f-a218a567698f.svg" />
+
+<img width="46%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true"/>
 </p>
+
+
+<h2> GitHub status </h2>
+<p align="center">
+<img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=claudiadewindt&theme=dracula&hide_border=true" />
+ </p>
+
 
 
 
