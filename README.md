@@ -60,16 +60,20 @@
 
 
 
-<p align="center" margin-bottom="30px">
+<p align="center" margin-bottom="30px" position="relative">
 <img width="50%" align="left" src="https://wakatime.com/share/@claudiadewindt/30671705-7083-42c7-8e9f-a218a567698f.svg" />
 
 <img width="46%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true"/>
+   
+</br>
+</br>
+</br>
 </p>
 
-
-<h2> GitHub status </h2>
+## GitHub Status 
 <p align="center">
-<img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=claudiadewindt&theme=dracula&hide_border=true" />
+
+<img width="51%" src="http://github-readme-streak-stats.herokuapp.com?user=claudiadewindt&theme=dracula&hide_border=true" />
  </p>
 
 
