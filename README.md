@@ -37,14 +37,16 @@
    ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=F29111)
      ![MongoDB](https://img.shields.io/badge/-MongoDB-444444?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-444444?style=flat&logo=next.js)
+![Typescript](https://img.shields.io/badge/-Typescript-444444?style=flat&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Learning 
-![Typescript](https://img.shields.io/badge/-Typescript-444444?style=flat&logo=typescript)
 ![Gsap](https://img.shields.io/badge/-GreenSock-444444?style=flat&logo=greensock)
-![Next.js](https://img.shields.io/badge/-Next.js-444444?style=flat&logo=next.js)
+![GraphQl](https://img.shields.io/badge/-GraphQl-444444?style=flat&logo=graphql)
+
 
 
 
