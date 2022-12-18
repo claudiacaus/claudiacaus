@@ -58,15 +58,13 @@
 
 <h2> My Wakatime <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> </h2>
 
-<img  align="center" width="80%" src="https://wakatime.com/share/@claudiadewindt/cb06d02e-da6b-47dc-8f15-0360236998f8.svg" />
-
-
-
+<img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true"/>
+   
 <p align="center" margin-bottom="30px" position="relative">
 <img width="60%" align="center" src="https://wakatime.com/share/@claudiadewindt/30671705-7083-42c7-8e9f-a218a567698f.svg" />
 </br>
-<img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true"/>
-   
+
+<img  align="center" width="80%" src="https://wakatime.com/share/@claudiadewindt/cb06d02e-da6b-47dc-8f15-0360236998f8.svg" />
 
 
 </br>
