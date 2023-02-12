@@ -46,6 +46,8 @@
 ## Learning 
 ![Gsap](https://img.shields.io/badge/-GreenSock-444444?style=flat&logo=greensock)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-444444?style=flat&logo=graphql)
+![Vue.js](https://img.shields.io/badge/-Vue.js-444444?style=flat&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-444444?style=flat&logo=nuxt.js)
 
 
 
