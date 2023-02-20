@@ -15,8 +15,7 @@
 <h2> About Me </h2>
 
 :house_with_garden: &nbsp; I’m from Brazil and I live in the Netherlands. <br>
-🔭 &nbsp; I’m currently working on  my portfolio. <br>
-🎓 &nbsp; I recently graduated as a <strong>Full Stack Web Developer</strong> from the  [HackYourFuture](https://www.hackyourfuture.net/) Bootcamp - Amsterdam.<br>
+🎓 &nbsp; I'm a Frontend Developer 
 🎓 &nbsp; I have a Bsc in Advertising. <br>
 :woman_technologist: &nbsp; I study daily to improve my coding skills. <br>
 👯 &nbsp; I’m looking to collaborate on Projects. <br>
@@ -28,14 +27,14 @@
   
    
 ![HTML](https://img.shields.io/badge/-HTML-444444?style=flat&logo=HTML5) 
-   ![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=1572B6)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap)
-   ![Sass](https://img.shields.io/badge/-SASS-444444?style=flat&logo=sass)
+![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-SASS-444444?style=flat&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-444444?style=flat&logo=express)
-   ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=F29111)
-     ![MongoDB](https://img.shields.io/badge/-MongoDB-444444?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=F29111)
+![MongoDB](https://img.shields.io/badge/-MongoDB-444444?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-444444?style=flat&logo=next.js)
 ![Typescript](https://img.shields.io/badge/-Typescript-444444?style=flat&logo=typescript)
