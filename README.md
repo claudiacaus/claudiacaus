@@ -67,7 +67,7 @@
 <img width="60%" align="center" src="https://wakatime.com/share/@claudiadewindt/30671705-7083-42c7-8e9f-a218a567698f.svg" />
 </br>
 
-<img  align="center" width="80%" src="https://wakatime.com/share/@claudiadewindt/cb06d02e-da6b-47dc-8f15-0360236998f8.svg" />
+
 
 
 </br>
