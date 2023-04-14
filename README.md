@@ -18,7 +18,7 @@
 🎓 &nbsp; I'm a Frontend Developer.  <br>
 🎓 &nbsp; I have a Bsc in Advertising. <br>
 :woman_technologist: &nbsp; I study daily to improve my coding skills. <br>
-👯 &nbsp; I’m looking to collaborate on Projects. <br>
+👩🏻‍💻 &nbsp; I’m Open To Work<br>
 :art: &nbsp; In my free time I like to paint. <br> 
 💬 &nbsp; Talk to me about JavaScript or anything code related. <br>
 
