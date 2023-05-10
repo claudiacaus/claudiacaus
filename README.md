@@ -3,7 +3,7 @@
 
 <p align='center'> 
    
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)  
+<!--    ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)   -->
    
 </p>
    
