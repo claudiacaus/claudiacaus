@@ -20,13 +20,12 @@ jobs:
           plugin_lines: yes
           
       - uses: lowlighter/metrics@latest
-        name: Full history calendar
+        name:  Current year calendar
         with:
-          filename: metrics.plugin.calendar.full.svg
+          filename: metrics.plugin.calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
-          plugin_calendar_limit: 0
         
       - uses: lowlighter/metrics@latest
         name: Recent activity charts
@@ -62,6 +61,20 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
+     
+      - uses: lowlighter/metrics@latest
+        name: Compact display
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
 
 
 
