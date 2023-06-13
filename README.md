@@ -62,6 +62,33 @@
 
 ## My Wakatime <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> 
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.basic.svg">
+    </td>
+    <td align="center">
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.habits.charts.svg">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.languages.details.svg">
+    </td>
+    <td align="center">
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.reactions.svg">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.wakatime.svg">
+    </td>
+    <td align="center">
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.isocalendar.svg">
+    </td
+  </tr>
+</table>
+
 <p align="center">
    <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true&range=all_time"/>
 </p>
