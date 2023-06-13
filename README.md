@@ -65,7 +65,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.basic.svg">
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.base.svg">
     </td>
     <td align="center">
       <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.habits.charts.svg">
@@ -76,7 +76,7 @@
       <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.languages.details.svg">
     </td>
     <td align="center">
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.reactions.svg">
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.calendar.svg">
     </td>
   </tr>
   <tr>
@@ -84,17 +84,13 @@
       <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.wakatime.svg">
     </td>
     <td align="center">
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.isocalendar.svg">
+      <img src="https://wakatime.com/share/@claudiadewindt/30671705-7083-42c7-8e9f-a218a567698f.svg">
     </td
   </tr>
 </table>
 
 <p align="center">
    <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true&range=all_time"/>
-</p>
- 
-<p align="center" margin-bottom="30px" position="relative">
-   <img width="60%" align="center" src="https://wakatime.com/share/@claudiadewindt/30671705-7083-42c7-8e9f-a218a567698f.svg" />
 </p>
 
 
