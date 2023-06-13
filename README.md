@@ -72,11 +72,11 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.languages.details.svg">
+    <td align="center">    
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.achievements.compact.svg">
     </td>
     <td align="center">
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.achievements.compact.svg">
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.languages.details.svg">
     </td>
   </tr>
   <tr>
