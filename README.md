@@ -1,6 +1,4 @@
 
-# Hello Fellow < Developers />! 
-
 <p align='center'> 
    
 <!--    ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)   -->
@@ -10,7 +8,7 @@
    
 <img width="55%" align="right" alt="web development" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif" />
    
-<div size='20px'> Hi! My name is <strong>Cláudia</strong>. Thank You for taking the time to view my GitHub Profile! 
+<div size='30px'> Hi! My name is <strong>Cláudia</strong>. Thank You for taking the time to view my GitHub Profile! 
 </div>
 
 ## About Me 
