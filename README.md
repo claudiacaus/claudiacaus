@@ -4,6 +4,7 @@
 <p align='center'> 
    
 <!--    ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)   -->
+[![](https://vbr.wocr.tk/badge?page_id=claudiadewindt-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff)](https://github.com/claudiadewindt/VisitorBadgeReloaded)
    
 </p>
    
@@ -68,6 +69,7 @@
 <p align="center" margin-bottom="30px" position="relative">
    <img width="60%" align="center" src="https://wakatime.com/share/@claudiadewindt/30671705-7083-42c7-8e9f-a218a567698f.svg" />
 </p>
+
 
 <p align="center">
    <img width="51%" src="http://github-readme-streak-stats.herokuapp.com?user=claudiadewindt&theme=dracula&hide_border=true" />
