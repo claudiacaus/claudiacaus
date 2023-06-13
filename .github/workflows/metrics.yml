@@ -1,61 +1,98 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+
+  
+name: Lowlighter Metrics
+
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule:
+    # 12AM EST (midnight)
+    - cron: '0 5 * * *'
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    if: "github.repository == 'Nathan13888/Nathan13888'"
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: 🙋 Introduction plugin
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
+          filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: claudiadewindt
-          template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Berlin
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_fortune: yes
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_other: yes
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+          
+      - name: 🏆 Achievements
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: B       # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
+          plugin_achievements_ignored: octonaut  # Hide octonaut achievement
+          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
+
+      - name: 📅 Isocalendar plugin
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+      
+      - name: 🎭 Reactions plugin
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        with:
+          filename: metrics.plugin.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 200                 # Compute reactions over last 200 issue comments
+          plugin_reactions_limit_issues: 100          # Compute reactions over last 100 issues/pull requests opened
+          plugin_reactions_days: 14                   # Compute reactions on issue comments posted less than 14 days ago
+          plugin_reactions_details: count, percentage # Display reactions count and percentage
+          plugin_reactions_ignored: bot               # Ignore "bot" user
+        
+      - name: ⏰ WakaTime plugin
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects-graphs, languages-graphs, editors-graphs, os-graphs
+          plugin_wakatime_limit: 5
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: Nathan13888
+
+      - name: 📌 Topics plugin
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        with:
+          filename: metrics.plugin.topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_sort: stars
+          plugin_topics_mode: mastered
+
+      - name: 🈷️ Languages plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell
+          plugin_languages_limit: 8
