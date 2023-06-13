@@ -1,6 +1,7 @@
 name: Waka Readme
 
-on:
+on: 
+workflow_dispatch:
   schedule:
     # 12AM EST (midnight)
     - cron: '0 5 * * *'
