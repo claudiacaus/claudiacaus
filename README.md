@@ -76,7 +76,7 @@
       <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.languages.details.svg">
     </td>
     <td align="center">
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.calendar.svg">
+      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.achievements.compact.svg">
     </td>
   </tr>
   <tr>
