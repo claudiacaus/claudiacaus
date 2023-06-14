@@ -2,7 +2,7 @@
 <p align='center'> 
    
 <!--    ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)   -->
-[![](https://vbr.wocr.tk/badge?page_id=claudiadewindt-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff)](https://github.com/claudiadewindt/VisitorBadgeReloaded)
+[![](https://vbr.wocr.tk/badge?page_id=claudiacaus-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff)](https://github.com/claudiacaus/VisitorBadgeReloaded)
    
 </p>
    
@@ -63,37 +63,37 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.base.svg">
+      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.base.svg">
     </td>
     <td align="center">
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.habits.charts.svg">
+      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.habits.charts.svg">
     </td>
   </tr>
   <tr>
     <td align="center">    
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.achievements.compact.svg">
+      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.achievements.compact.svg">
     </td>
     <td align="center">
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.languages.details.svg">
+      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.languages.details.svg">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/claudiadewindt/claudiadewindt/blob/main/metrics.plugin.wakatime.svg">
+      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.wakatime.svg">
     </td>
     <td align="center">
-      <img src="https://wakatime.com/share/@claudiadewindt/30671705-7083-42c7-8e9f-a218a567698f.svg">
+      <img src="https://wakatime.com/share/@claudiacaus/30671705-7083-42c7-8e9f-a218a567698f.svg">
     </td
   </tr>
 </table>
 
 <p align="center">
-   <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiadewindt&compact=True&theme=dracula&hide_border=true&range=all_time"/>
+   <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiacaus&compact=True&theme=dracula&hide_border=true&range=all_time"/>
 </p>
 
 
 <p align="center">
-   <img width="51%" src="http://github-readme-streak-stats.herokuapp.com?user=claudiadewindt&theme=dracula&hide_border=true" />
+   <img width="51%" src="http://github-readme-streak-stats.herokuapp.com?user=claudiacaus&theme=dracula&hide_border=true" />
 </p>
 
 
