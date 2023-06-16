@@ -9,6 +9,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    if: "github.repository == 'claudiacaus/claudiacaus'"
     permissions:
       contents: write
     steps:
