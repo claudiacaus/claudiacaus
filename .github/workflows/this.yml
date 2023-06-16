@@ -1,5 +1,5 @@
-
-name: Metrics
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics one
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -9,74 +9,41 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    if: "github.repository == 'claudiacaus/claudiacaus'"
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        name: base
         with:
-          filename: metricss.base.svg
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: claudiacaus
+          template: classic
           base: header, activity, community, repositories, metadata
-          plugin_lines: yes
-          
-      - uses: lowlighter/metrics@latest
-        name:  Current year calendar
-        with:
-          filename: metricss.plugin.calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-        
-      - uses: lowlighter/metrics@latest
-        name: Recent activity charts
-        with:
-          filename: metricss.plugin.habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          config_timezone: Europe/Paris
-          
-    
-      - uses: lowlighter/metrics@latest
-        name: Most used (with details)
-        with:
-          filename: metricss.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
-
-      - uses: lowlighter/metrics@latest
-        name: WakaTime
-        with:
-          filename: metricss.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-
-     
-      - uses: lowlighter/metrics@latest
-        name: Compact display
-        with:
-          filename: metricss.plugin.achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          config_timezone: Europe/Berlin
           plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-
-
-
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_fortune: yes
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
