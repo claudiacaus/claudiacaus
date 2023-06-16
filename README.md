@@ -85,6 +85,14 @@
       <img src="https://wakatime.com/share/@claudiacaus/30671705-7083-42c7-8e9f-a218a567698f.svg">
     </td
   </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.isocalendar.fullyear.svg">
+    </td>
+    <td align="center">
+       <img  src="http://github-readme-streak-stats.herokuapp.com?user=claudiacaus&theme=dracula&hide_border=true" />
+    </td
+  </tr>
 </table> 
 
 <p align="center">
@@ -93,9 +101,7 @@
 <figure><embed src="https://wakatime.com/share/@claudiacaus/4a18c8fd-47bf-471c-8234-904114760311.svg"></embed></figure>
 
 
-<p align="center">
-   <img width="51%" src="http://github-readme-streak-stats.herokuapp.com?user=claudiacaus&theme=dracula&hide_border=true" />
-</p>
+
 
 
 
