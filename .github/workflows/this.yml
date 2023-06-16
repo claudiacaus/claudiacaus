@@ -1,1 +1,83 @@
 
+name: new metrics
+on:
+  # Schedule updates (each hour)
+  schedule:
+    # 12AM EST (midnight)
+    - cron: '0 5 * * *'
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        name: base
+        with:
+          filename: metricss.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_lines: yes
+          
+      - uses: lowlighter/metrics@latest
+        name:  Current year calendar
+        with:
+          filename: metricss.plugin.calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+        
+      - uses: lowlighter/metrics@latest
+        name: Recent activity charts
+        with:
+          filename: metricss.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Europe/Paris
+          
+    
+      - uses: lowlighter/metrics@latest
+        name: Most used (with details)
+        with:
+          filename: metricss.plugin.languages.details.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 4
+
+      - uses: lowlighter/metrics@latest
+        name: WakaTime
+        with:
+          filename: metricss.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
+     
+      - uses: lowlighter/metrics@latest
+        name: Compact display
+        with:
+          filename: metricss.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+
+
+
