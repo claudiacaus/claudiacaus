@@ -60,10 +60,10 @@
 
 ## My Wakatime <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> 
 
-<!-- <table>
+ <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.base.svg">
+      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/github-metrics.svg">
     </td>
     <td align="center">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.habits.charts.svg">
@@ -85,7 +85,7 @@
       <img src="https://wakatime.com/share/@claudiacaus/30671705-7083-42c7-8e9f-a218a567698f.svg">
     </td
   </tr>
-</table> -->
+</table> 
 
 <p align="center">
    <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiacaus&compact=True&theme=dracula&hide_border=true&range=all_time"/>
