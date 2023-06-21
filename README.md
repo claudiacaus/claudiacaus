@@ -1,6 +1,8 @@
 
 <p align='center'> 
-   
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2596be&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
 <!--    ![visitors](https://visitor-badge.glitch.me/badge?page_id=claudiadewindt.claudiadewindt)   -->
 [![](https://vbr.wocr.tk/badge?page_id=claudiacaus-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff)](https://github.com/claudiacaus/VisitorBadgeReloaded)
    
