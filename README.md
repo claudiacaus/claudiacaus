@@ -52,6 +52,11 @@
 ![GraphQl](https://img.shields.io/badge/-GraphQl-444444?style=flat&logo=graphql)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-444444?style=flat&logo=vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-444444?style=flat&logo=nuxt.js)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-444444?style=flat&logo=asp.net-core)
+![Azure](https://img.shields.io/badge/-Azure-444444?style=flat&logo=azure)
+
+
+
 
 
 ## Connect with me 
