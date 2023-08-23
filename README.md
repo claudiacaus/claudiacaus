@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td align="center">    
-      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.achievements.svg">
+      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.topics.icons.svg">
     </td>
     <td align="center">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.languages.details.svg">
