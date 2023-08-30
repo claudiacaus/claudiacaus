@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td align="center">    
-      <figure><embed src="https://wakatime.com/share/@claudiacaus/7323f631-f60e-443f-a5f2-c135d4563b06.svg"></embed></figure>
+     <img src="https://wakatime.com/share/@claudiacaus/3c4641a0-c882-4c6f-bdee-fd1acd79fe36.svg" />
     </td>
     <td align="center">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.languages.details.svg">
