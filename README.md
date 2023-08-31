@@ -77,7 +77,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center">    
+    <td align="center">   
+     <p>Activity chart</p> 
      <img src="https://wakatime.com/share/@claudiacaus/3c4641a0-c882-4c6f-bdee-fd1acd79fe36.svg" />
     </td>
     <td align="center">
