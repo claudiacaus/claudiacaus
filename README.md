@@ -70,7 +70,7 @@
  <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/.github/workflows/assets/metrics.base.svg">
+      <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.base.svg">
     </td>
     <td align="center">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.habits.charts.svg">
