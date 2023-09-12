@@ -67,7 +67,11 @@
 
 ## My Wakatime <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> 
 
- <table>
+ <table style="table-layout: fixed; width: 100%;">
+  <colgroup>
+    <col style="width: 400px;">
+    <col style="width: 50%;">
+  </colgroup>
   <tr>
     <td align="center">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.base.svg">
@@ -91,17 +95,18 @@
     </td>
     <td align="center">
       <img src="https://wakatime.com/share/@claudiacaus/30671705-7083-42c7-8e9f-a218a567698f.svg">
-    </td
+    </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.isocalendar.fullyear.svg">
     </td>
     <td align="center">
-       <img  src="http://github-readme-streak-stats.herokuapp.com?user=claudiacaus&theme=dracula&hide_border=true" />
-    </td
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=claudiacaus&theme=dracula&hide_border=true">
+    </td>
   </tr>
-</table> 
+</table>
+
 
 <p align="center">
    <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@claudiacaus&compact=True&theme=dracula&hide_border=true&range=all_time"/>
