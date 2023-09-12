@@ -67,45 +67,41 @@
 
 ## My Wakatime <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> 
 
- <table style="table-layout: fixed; width: 100%;">
-  <colgroup>
-    <col style="width: 400px;">
-    <col style="width: 50%;">
-  </colgroup>
+ <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.base.svg">
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.habits.charts.svg">
     </td>
   </tr>
   <tr>
-    <td align="center">   
+    <td align="center" width="50%">   
      <p>Activity chart</p> 
      <img src="https://wakatime.com/share/@claudiacaus/3c4641a0-c882-4c6f-bdee-fd1acd79fe36.svg" />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.languages.details.svg">
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.wakatime.svg">
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://wakatime.com/share/@claudiacaus/30671705-7083-42c7-8e9f-a218a567698f.svg">
-    </td>
+    </td
   </tr>
-  <tr>
-    <td align="center">
+    <tr>
+    <td align="center" width="50%">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.isocalendar.fullyear.svg">
     </td>
-    <td align="center">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=claudiacaus&theme=dracula&hide_border=true">
-    </td>
+    <td align="center" width="50%">
+       <img  src="http://github-readme-streak-stats.herokuapp.com?user=claudiacaus&theme=dracula&hide_border=true" />
+    </td
   </tr>
-</table>
+</table> 
 
 
 <p align="center">
