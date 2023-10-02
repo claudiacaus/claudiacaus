@@ -46,7 +46,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-444444?style=flat&logo=visual-studio)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-444444?style=flat&logo=bitbucket&logoColor=007ACC)
 ![Jira](https://img.shields.io/badge/-Jira-444444?style=flat&logo=jira&logoColor=007ACC)
-![Blazor](https://img.shields.io/badge/-Blazor-444444?style=flat&logo=blazor)
+
 
 ## Learning 
 ![Gsap](https://img.shields.io/badge/-GreenSock-444444?style=flat&logo=greensock)
@@ -55,7 +55,7 @@
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-444444?style=flat&logo=nuxt.js)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-444444?style=flat&logo=asp.net-core)
 ![Azure](https://img.shields.io/badge/-Azure-444444?style=flat&logo=azure)
-
+![Blazor](https://img.shields.io/badge/-Blazor-444444?style=flat&logo=blazor)
 
 
 
