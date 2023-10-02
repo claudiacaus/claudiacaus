@@ -46,6 +46,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-444444?style=flat&logo=visual-studio)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-444444?style=flat&logo=bitbucket&logoColor=007ACC)
 ![Jira](https://img.shields.io/badge/-Jira-444444?style=flat&logo=jira&logoColor=007ACC)
+![Blazor](https://img.shields.io/badge/-Blazor-444444?style=flat&logo=blazor)
 
 ## Learning 
 ![Gsap](https://img.shields.io/badge/-GreenSock-444444?style=flat&logo=greensock)
