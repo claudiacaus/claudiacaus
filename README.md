@@ -43,7 +43,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
 ![Prisma](https://img.shields.io/badge/-Prisma-444444?style=flat&logo=prisma)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-444444?style=flat&logo=visual-studio)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-444444?style=flat&logo=visual-studio&logoColor=6b2a97)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-444444?style=flat&logo=bitbucket&logoColor=007ACC)
 ![Jira](https://img.shields.io/badge/-Jira-444444?style=flat&logo=jira&logoColor=007ACC)
 
@@ -54,8 +54,8 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-444444?style=flat&logo=vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-444444?style=flat&logo=nuxt.js)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-444444?style=flat&logo=asp.net-core)
-![Azure](https://img.shields.io/badge/-Azure-444444?style=flat&logo=azure)
-![Blazor](https://img.shields.io/badge/-Blazor-444444?style=flat&logo=blazor)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-444444?style=flat&logo=azure-devops&logoColor=087cd5)
+![Blazor](https://img.shields.io/badge/-Blazor-444444?style=flat&logo=blazor&logoColor=5c2d91)
 
 
 
