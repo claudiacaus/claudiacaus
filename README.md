@@ -71,7 +71,7 @@
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
 ## Connect with me 
-<a href="https://bit.ly/claudiapo-linkedin"><img src="https://img.shields.io/badge/-Cláudia%20Pereira%20Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://bit.ly/claudiaPO"><img src="https://img.shields.io/badge/-Cláudia%20Pereira%20Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:caucrah@gmail.com"><img src="https://img.shields.io/badge/-caucrah@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://bit.ly/claudiacaus-instagram"><img src="https://img.shields.io/badge/-@claudiacaus-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
