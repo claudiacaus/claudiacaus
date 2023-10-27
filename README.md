@@ -133,8 +133,7 @@
 </p>
 <figure><embed src="https://wakatime.com/share/@claudiacaus/4a18c8fd-47bf-471c-8234-904114760311.svg"></embed></figure>
 
-
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=claudiacaus" />
 
 
 
