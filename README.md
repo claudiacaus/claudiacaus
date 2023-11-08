@@ -15,7 +15,7 @@
 
 ## About Me 
 
-:house_with_garden: &nbsp; I’m from Brazil and I live in the Netherlands. <br>
+:house_with_garden: &nbsp; I'm from Brazil and I live in the Netherlands. <br>
 🎓 &nbsp; I'm a Frontend Developer.  <br>
 🎓 &nbsp; I have a Bsc in Advertising. <br>
 :woman_technologist: &nbsp; I study daily to improve my coding skills. <br>
