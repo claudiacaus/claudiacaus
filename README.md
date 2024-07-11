@@ -96,7 +96,7 @@
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.habits.charts.svg">
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center" width="50%">   
      <p>Activity chart</p> 
      <img src="https://wakatime.com/share/@claudiacaus/3c4641a0-c882-4c6f-bdee-fd1acd79fe36.svg" />
@@ -104,15 +104,15 @@
     <td align="center" width="50%">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.languages.details.svg">
     </td>
-  </tr>
-  <tr>
+  </tr> -->
+<!--   <tr>
     <td align="center" width="50%">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.wakatime.svg">
     </td>
     <td align="center" width="50%">
       <img src="https://wakatime.com/share/@claudiacaus/30671705-7083-42c7-8e9f-a218a567698f.svg">
     </td
-  </tr>
+  </tr> -->
     <tr>
     <td align="center" width="50%">
       <img src="https://github.com/claudiacaus/claudiacaus/blob/main/metrics.plugin.isocalendar.fullyear.svg">
