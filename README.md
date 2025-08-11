@@ -79,11 +79,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Connect with me 
-<a href="https://bit.ly/claudiaPO"><img src="https://img.shields.io/badge/-Cláudia%20Pereira%20Oliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:caucrah@gmail.com"><img src="https://img.shields.io/badge/-caucrah@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://bit.ly/claudiacaus-instagram"><img src="https://img.shields.io/badge/-@claudiacaus-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
 
 ## My Wakatime <a href="https://wakatime.com/@975622cc-796a-42f6-b2fc-3860a5f9dcfe"><img src="https://wakatime.com/badge/user/975622cc-796a-42f6-b2fc-3860a5f9dcfe.svg" alt="Total time coded since Jul 20 2021" /></a> 
 
